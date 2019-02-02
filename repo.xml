@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+        <link>
+            <name>Twitter</name>
+            <url>https://www.twitter.com/AnonymousXdeV</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+        <link>
+            <name>PayPal</name>
+            <url>https://www.paypal.me/BlakeBrunner </url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	</footerlinks>
+</repo>

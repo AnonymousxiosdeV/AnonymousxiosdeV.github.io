@@ -1,0 +1,24 @@
+<package>
+	<id>com.anonymousx.flexkit</id>
+	<name>FlexKit</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+		    <miniOS>9.3</miniOS>
+			<maxiOS>11.4.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Turn Flex 3 patches into Theos projects easily with FlexKit</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
