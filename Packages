@@ -1,9 +1,0 @@
-Package: com.anonymousx.flexkit
-Version: 1.0.0
-Section: Utilities
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.anonymousx.flexkit_1.0.0_iphoneos-arm.deb
-Description: Turn Flex 3 patches into Theos projects easily with FlexKit
-Name: FlexKit
-Depiction: https://AnonymousxiosdeV.github.io/repo/depictions/?p=com.anonymousx.flexkit
