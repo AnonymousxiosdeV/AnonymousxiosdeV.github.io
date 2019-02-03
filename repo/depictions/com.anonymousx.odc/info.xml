@@ -1,33 +1,24 @@
 <package>
-	<id>com.jacc.wiivamp</id>
-	<name>WiiVamp</name>
-	<version>3.0.0</version>
+	<id>com.anonymousx.odc</id>
+	<name>odc</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
+		    <miniOS>11.0</miniOS>
+			<maxiOS>12.1.1</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-        <package>com.spark.libsparkapplist</package>
-        <package>ws.hbang.common</package>
-	</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Play your favorite Wii songs inside of your apps!</description>
+		<description>On-Device-Console for iOS 11 & 12</description>
 	</descriptionlist>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Added custom apps and more songs.</change>
+		<change>Initial release</change>
 	</changelog>
-	<links>
-		<link>
-			<name>Twitter</name>
-			<url>https://www.twitter.com/jvcks0n</url>
-			<iconclass>fa fa-twitter</iconclass>
-		</link>
-        <link>
-            <name>PayPal</name>
-            <url>https://www.paypal.me/jvcks0n</url>
-            <iconclass>fa fa-paypal</iconclass>
-        </link>
-	</links>
+	<links></links>
 </package>
